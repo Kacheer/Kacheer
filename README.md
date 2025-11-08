@@ -1,7 +1,7 @@
 ## Who’s here? 
 A newbie coder, but already a legend in the art of losing accounts—my previous GitHub croaked somewhere in digital hell, wellll, and now I’ve got this one. I learn the hard way, stumbling over every damn obstacle, practice on epic fails, dive into new topics, and crank out projects that’ll probably crumble at the first sneeze.
 
-## My Tech Stack::
+## My Tech Stack:
 #### Backend Skills:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) </br>
